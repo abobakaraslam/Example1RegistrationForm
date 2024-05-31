@@ -2,7 +2,7 @@
 
 Below link explains the steps by which this code is generated.
 
-https://coursecs.wordpress.com/courses/advance-web-development/navigation-between-react-components-using-react-router/
+https://coursecs.wordpress.com/courses/advance-web-development/registration-form/
 
 
 Below video link for explanation of this code.
